@@ -1,5 +1,5 @@
-pyrogram
-pytgcalls[telethon]
-aiosqlite
-tgcrypto
-aiohttp
+pyrogram==2.0.106
+pytgcalls==3.0.0.dev24
+aiosqlite==0.19.0
+tgcrypto==1.2.5
+aiohttp==3.9.3
